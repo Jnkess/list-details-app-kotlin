@@ -1,6 +1,6 @@
 Recepie App
 ##############
 
-**Kotlin Mobile app**
+**Aplikacje Mobilne**
 
 Poznan University of Technology - 6th Semester
